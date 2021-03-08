@@ -1,0 +1,8 @@
+biopython
+boto3
+numpy
+pandas
+orca
+plotly
+sqlite3
+datetime
